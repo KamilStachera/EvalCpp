@@ -17,5 +17,5 @@ auto value = eval->makeEvaluation();
 ```
 ## TODO
 
-* needs more tests
-* sometimes float values freak out 
+* more tests
+* custom to_string method (standard library one has too small precision)
