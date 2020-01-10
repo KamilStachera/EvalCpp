@@ -15,3 +15,7 @@ std::string expression = "3 * (3 + 3)";
 auto eval = new Eval(expression);
 auto value = eval->makeEvaluation();
 ```
+## TODO
+
+* needs more tests
+* sometimes float values freak out 
