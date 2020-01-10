@@ -16,7 +16,8 @@ auto eval = new Eval(expression);
 auto value = eval->makeEvaluation();
 ```
 
-You can also dowload this whole repository (it was made in VS17) to run the given examples.
+You can also dowload this whole repository (it was made in VS17) to run given examples.
+
 ## TODO
 
 * more tests
