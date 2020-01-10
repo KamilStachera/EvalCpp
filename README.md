@@ -15,6 +15,8 @@ std::string expression = "3 * (3 + 3)";
 auto eval = new Eval(expression);
 auto value = eval->makeEvaluation();
 ```
+
+You can also dowload this whole repository (it was made in VS17) to run the given examples.
 ## TODO
 
 * more tests
